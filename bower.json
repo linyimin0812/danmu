@@ -1,0 +1,21 @@
+{
+  "name": "linyimin",
+  "authors": [
+    "lym152898 <lin_yi_min@163.com>"
+  ],
+  "description": "微信端发送弹幕网页端显示",
+  "main": "",
+  "keywords": [
+    "微信",
+    "网页弹幕"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
